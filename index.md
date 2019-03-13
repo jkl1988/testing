@@ -4,6 +4,8 @@
 #### python
 
 :poop:
+:shit:
+:smile:
 
 *python*
 **python**
