@@ -3,7 +3,7 @@
 ### python
 #### python
 
-:shit:
+:poop:
 
 *python*
 **python**
